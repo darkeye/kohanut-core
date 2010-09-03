@@ -1,13 +1,10 @@
 <?php defined('SYSPATH') or die('No direct script access.');
 /**
- * Sample translation file for Kohanut.  Copy this file and rename it to your two
- * letter language code, and translate the messages.  Be sure to put your name in
- * the author field, and which version of kohanut this is compatable with. Feel
- * free to push your language files to http://github.com/bluehawk/kohanut-core
+ * German Translation File
  *
- * I do not speak spanish. Don't get mad at me if this is nonsense :)
+ * If there is something wrong please feel free to contact me
  * 
- * @author     Google Translate, Michael Peters
+ * @author     Martin Michel <postfach@martinmichel.info>
  * @version    0.6.1
  */
 return array
